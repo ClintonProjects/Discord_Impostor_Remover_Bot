@@ -1,12 +1,6 @@
 # Discord_Impostor_Remover_Bot
 This is a discord that is designed to stop Impostors in the discord server, these are very common in larger servers and this server will stop them completely
 
-# Discord_Impostor_Bot_Checker
-This is a discord that is designed to stop Impostors in the discord server, these are very common in larger servers and this server will stop them completely.
-
-# Discord_Impostor_Bot
-This is a discord that is designed to stop Impostors in the discord server, these are very common in larger servers and this server will stop them completely. 
-
 # Running Maven Fat JAR through CMD Guide (set up)
 
 Replace the discord token in the Java file (in the main class). Build the project using Maven. Open the project folder. Navigate to the "target" directory. Open the command prompt (CMD) in the file directory. Run the following command: 
